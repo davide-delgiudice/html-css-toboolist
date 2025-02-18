@@ -27,7 +27,9 @@ body{
 
 .white-box{
     background-color: white;
-    margin: 50px 300px 10px 300px;
+    width: 60%;
+    margin: 30px auto;
+    padding: 30px;
 }
 .add-task{
     display: inline-block;
@@ -108,4 +110,24 @@ ul{
     border-radius: 20px;
     padding: 5px 10px;
     font-size: 0.75em;
+}
+
+.tick{
+    display: inline-block;
+    color: lightgreen;
+    border: 1px solid lightgreen;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 0 0 10px 3px;
+}
+
+.cross{
+    display: inline-block;
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 0 0 20px 2px;
 }
