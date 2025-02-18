@@ -48,7 +48,7 @@ body{
     padding: 10px 10px;
 }
 
-.size-list{
+.margin-list{
     margin: 0px 0px 30px 50px;
 }
 
@@ -56,32 +56,56 @@ ul{
     list-style-type: none;
 }
 
-.lightblue{
+.editorial{
+    display: inline-block;
     background-color: rgb(68, 169, 246);
     color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 0.75em;
 }
 
-.purple{
+.q1-goals{
+    display: inline-block;
     background-color: rgb(151, 114, 222);
     color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 0.75em;
 }
 
-.green{
+.recruiting{
+    display: inline-block;
     background-color: rgb(101, 195, 170);
     color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 0.75em;
 }
 
-.orange{
+.mobile{
+    display: inline-block;
     background-color: rgb(240, 160, 46);
     color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 0.75em;
 }
 
-.pink{
+.website{
+    display: inline-block;
     background-color: rgb(215, 100, 165);
     color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 0.75em;
 }
 
-.lightgreen{
+.sales{
+    display: inline-block;
     background-color: rgb(176, 203, 38);
     color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 0.75em;
 }
