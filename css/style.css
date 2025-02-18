@@ -25,10 +25,14 @@ body{
     background-color: rgb(234, 235, 237);
 }
 
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+
 .square{
     background-color: white;
     box-sizing: border-box;
-    margin: 25%;
 }
 
 ul{
