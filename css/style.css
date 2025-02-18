@@ -25,16 +25,63 @@ body{
     background-color: rgb(234, 235, 237);
 }
 
-.container{
-    width: 500px;
-    margin: 0 auto;
+.white-box{
+    background-color: white;
+    margin: 50px 300px 10px 300px;
+}
+.add-task{
+    display: inline-block;
+    background-color: rgb(68, 169, 246);
+    color: white;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin: 15px 0px 50px 50px;
 }
 
-.square{
+.add-section{
+    display: inline-block;
     background-color: white;
-    box-sizing: border-box;
+    color: lightgrey;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+
+.size-list{
+    margin: 0px 0px 30px 50px;
 }
 
 ul{
     list-style-type: none;
+}
+
+.lightblue{
+    background-color: rgb(68, 169, 246);
+    color: white;
+}
+
+.purple{
+    background-color: rgb(151, 114, 222);
+    color: white;
+}
+
+.green{
+    background-color: rgb(101, 195, 170);
+    color: white;
+}
+
+.orange{
+    background-color: rgb(240, 160, 46);
+    color: white;
+}
+
+.pink{
+    background-color: rgb(215, 100, 165);
+    color: white;
+}
+
+.lightgreen{
+    background-color: rgb(176, 203, 38);
+    color: white;
 }
