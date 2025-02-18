@@ -3,3 +3,22 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header{
+    background-color: white;
+}
+
+.img-padding{
+    padding: 10px 10px 10px 20px;
+    vertical-align: middle;
+}
+
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(234, 235, 237);
+}
