@@ -7,10 +7,10 @@
 /* header */
 header{
     background-color: white;
+    padding: 10px 10px 10px 20px;
 }
 
 .img-padding{
-    padding: 10px 10px 10px 20px;
     vertical-align: middle;
 }
 
@@ -19,6 +19,7 @@ h1{
     vertical-align: middle;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* fine header */
 
 /* corpo principale */
 body{
@@ -50,6 +51,8 @@ body{
     border-radius: 5px;
     padding: 10px 10px;
 }
+
+/* fine pulsanti */
 
 /* Elementi lista */
 ul{
@@ -137,3 +140,5 @@ li{
     height: 20px;
     padding: 0 0 20px 2px;
 }
+
+/* fine elementi lista */
